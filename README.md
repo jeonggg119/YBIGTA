@@ -17,5 +17,5 @@
 - **Duration** : 22-02-10 ~ 22-02-26
 - **Topic** : Generating images based on various **GAN models**
 - **Preview** : [Self Study](https://jeonggg119.tistory.com/37?category=1047618)
-- **Results** : [Presentation](https://github.com/jeonggg119/Ybigta/blob/master/2022_winter_project_GAN/GAN_ppt_final.pdf), [Code](https://github.com/jeonggg119/Ybigta/tree/master/2022_winter_project_GAN/Code)
 - **Paper Review** : [GAN](https://github.com/jeonggg119/DL_paper/issues/19), [BeautyGAN](https://github.com/jeonggg119/DL_paper/issues/20)
+- **Results** : [Presentation](https://github.com/jeonggg119/Ybigta/blob/master/2022_winter_project_GAN/GAN_ppt_final.pdf), [Code](https://github.com/jeonggg119/Ybigta/tree/master/2022_winter_project_GAN/Code)

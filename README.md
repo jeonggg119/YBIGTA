@@ -23,5 +23,5 @@
 
 ### 🌿 Data Science Team Study - Generative model
 - **Duration** : 22-03-07 ~
-- **Topic** : Paper & Code Review of Generative model (GAN, VAE, Autoregressive, Flow-based) on Image generation
+- **Topic** : Paper & Code Review of **Generative model** (GAN, VAE, Autoregressive, Flow-based) on Image generation
 - **Repo** : https://github.com/jeonggg119/YBIGTA-generative-model

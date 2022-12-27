@@ -50,5 +50,5 @@
 - **Duration** : 22-11-17 ~ 22-12-23
 - **Title** : Fingly - 손유희 기반 유아 홈스쿨링 서비스
 - **Keywords** : Pose Estimation, Mediapipe, Classification
+- **Repo** : https://github.com/ybigta-homeschooling/Fingerplay
 - **Results** : [Notion](https://www.notion.so/bab45ec5ede54bb98d88a3579f401e1e), [PPT](https://www.notion.so/bab45ec5ede54bb98d88a3579f401e1e#b6e531abf2194ae4acc871099a4a583d), [Presentation]()
-

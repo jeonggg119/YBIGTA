@@ -22,7 +22,7 @@
 
 ### 📚 22-1 Data Science Team Study - Generative model
 - **Duration** : 22-03-07 ~ 22-07-09
-- **Topic** : Paper & Code Review of **Generative model** (GAN, VAE, Autoregressive, Flow-based) on Image generation
+- **Topic** : Paper & Code Reviews of **Generative model** (GAN, VAE, Autoregressive, Flow-based) on Image generation
 - **Repo** : https://github.com/oddqueue/YBIGTA-generative-model
 
 
@@ -30,7 +30,7 @@
 - **Duration** : 22-05-17 ~ 22-06-25
 - **Title** : 북실북실 - OCR을 이용한 아동도서관리 어플리케이션
 - **Keywords** : Book Title Extraction, OCR, Segmentation, Detectron2
-- **Results** : [Notion](https://slender-gasosaurus-ccc.notion.site/d5b18b404b1441d4bbfa92e8bdc6ecaa), [Presentation](https://www.youtube.com/watch?v=qekmi_4Milw)
+- **Results** : [Notion(summary)](https://slender-gasosaurus-ccc.notion.site/d5b18b404b1441d4bbfa92e8bdc6ecaa), [Presentation](https://www.youtube.com/watch?v=qekmi_4Milw)
 
 
 ## 2022-2
@@ -43,7 +43,8 @@
 
 ### 📚 22-2 Data Science Team Study - 3D Vision
 - **Duration** : 22-09-17 ~ 
-- **Topic** : Paper Review of **3D Vision**
+- **Topic** : Paper & Code Reviews of **3D Vision** (Point-cloud based)
+- **Repo** : https://github.com/jeonggg119/DL_paper
 
 
 ### 🥈 22-1 YBIGTA Conference
@@ -51,4 +52,4 @@
 - **Title** : Fingly - 손유희 기반 유아 홈스쿨링 서비스
 - **Keywords** : Pose Estimation, Mediapipe, Classification
 - **Repo** : https://github.com/ybigta-homeschooling/Fingerplay
-- **Results** : [Notion](https://www.notion.so/Fingly-bc0389cdebea4c0a9a16da4899019987), [PPT](https://www.notion.so/bab45ec5ede54bb98d88a3579f401e1e#b6e531abf2194ae4acc871099a4a583d), [Presentation](https://www.youtube.com/watch?v=V4WWk4vjBEw&list=PLIZ3mKAU9ragn1woIEWls9zaV1p69rq1D&index=8)
+- **Results** : [Notion(summary)](https://www.notion.so/Fingly-bc0389cdebea4c0a9a16da4899019987), [PPT](https://www.notion.so/bab45ec5ede54bb98d88a3579f401e1e#b6e531abf2194ae4acc871099a4a583d), [Presentation](https://www.youtube.com/watch?v=V4WWk4vjBEw&list=PLIZ3mKAU9ragn1woIEWls9zaV1p69rq1D&index=8)

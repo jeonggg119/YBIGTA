@@ -42,9 +42,9 @@
 
 
 ### 📚 22-2 Data Science Team Study - 3D Vision
-- **Duration** : 22-09-17 ~ 
+- **Duration** : 22-09-17 ~ 22-12-12
 - **Topic** : Paper & Code Reviews of **3D Vision** (Point-cloud based)
-- **Repo** : https://github.com/jeonggg119/DL_paper
+- **Repo** : https://github.com/jeonggg119/DL_paper → 3D Vision Labels
 
 
 ### 🥈 22-1 YBIGTA Conference

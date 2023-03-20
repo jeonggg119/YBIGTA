@@ -6,7 +6,7 @@
 - **Links** : [Study Note](https://jeonggg119.tistory.com/category/Data), [Assignment](https://github.com/jeonggg119/Ybigta/tree/master/2022_winter_session)
 
 
-### 📚 Winter Vacation Free Study - DL
+### 📚 Winter Vacation Free Study - Deep Learning
 - **Duration** : 22-01-11 ~ 22-02-08
 - **Goal** : To review **Deep Learning** based on PyTorch
 - **Links** : [Study Note](https://jeonggg119.tistory.com/category/DL/Pytorch)

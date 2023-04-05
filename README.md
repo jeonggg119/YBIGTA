@@ -30,8 +30,7 @@
 - **Duration** : 22-05-17 ~ 22-06-25
 - **Title** : 북실북실 - OCR을 이용한 아동도서관리 어플리케이션
 - **Keywords** : Book Title Extraction, OCR, Segmentation, Detectron2
-- **Results** : [Notion(summary)](https://slender-gasosaurus-ccc.notion.site/d5b18b404b1441d4bbfa92e8bdc6ecaa), [Presentation](https://www.youtube.com/watch?v=qekmi_4Milw), [Code](https://github.com/jeonggg119/Ybigta/tree/master/2022-1_conference_Booksil/Modeling)
-
+- **Results** : [Notion(summary)](https://slender-gasosaurus-ccc.notion.site/d5b18b404b1441d4bbfa92e8bdc6ecaa), [Presentation](https://www.youtube.com/watch?v=qekmi_4Milw),[Code](https://github.com/jeonggg119/Ybigta/tree/master/2022-1_conference_Booksil/Modeling)
 
 
 

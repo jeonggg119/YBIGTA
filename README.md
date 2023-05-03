@@ -17,7 +17,7 @@
 - **Topic** : Generating images based on various **GAN models**
 - **Preview** : [Self Study](https://jeonggg119.tistory.com/37?category=1047618)
 - **Paper Review** : [GAN](https://github.com/jeonggg119/DL_paper/issues/19), [BeautyGAN](https://github.com/jeonggg119/DL_paper/issues/20)
-- **Results** : [Presentation](https://github.com/jeonggg119/Ybigta/blob/master/2022_winter_project_GAN/GAN_ppt_final.pdf), [Code](https://github.com/jeonggg119/Ybigta/tree/master/2022_winter_project_GAN/Code)
+- **Results** : [Presentation](https://github.com/jeonggg119/Ybigta/blob/master/2022_winter_project_GAN/GAN_ppt_final.pdf), [Code Implementation](https://github.com/jeonggg119/Ybigta/tree/master/2022_winter_project_GAN/Code)
 
 
 ### 📚 22-1 Data Science Team Study - Generative model
@@ -30,7 +30,8 @@
 - **Duration** : 22-05-17 ~ 22-06-25
 - **Title** : 북실북실 - OCR을 이용한 아동도서관리 어플리케이션
 - **Keywords** : Book Title Extraction, OCR, Segmentation, Detectron2
-- **Results** : [Notion(summary)](https://slender-gasosaurus-ccc.notion.site/d5b18b404b1441d4bbfa92e8bdc6ecaa), [Presentation](https://www.youtube.com/watch?v=qekmi_4Milw)
+- **Results** : [Notion(summary)](https://slender-gasosaurus-ccc.notion.site/d5b18b404b1441d4bbfa92e8bdc6ecaa), [Presentation](https://www.youtube.com/watch?v=qekmi_4Milw), [Code Implementation](https://github.com/jeonggg119/Ybigta/tree/master/2022-1_conference_Booksil/Modeling)
+
 
 
 ## 2022-2

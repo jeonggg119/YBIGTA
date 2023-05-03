@@ -53,7 +53,7 @@
 - **Title** : Fingly - 손유희 기반 유아 홈스쿨링 서비스
 - **Keywords** : Pose Estimation, Mediapipe, Classification
 - **Repo** : https://github.com/ybigta-homeschooling/Fingerplay
-- **Results** : [Notion(summary)](https://www.notion.so/Fingly-bc0389cdebea4c0a9a16da4899019987), [PPT](https://www.notion.so/bab45ec5ede54bb98d88a3579f401e1e#b6e531abf2194ae4acc871099a4a583d), [Presentation](https://www.youtube.com/watch?v=V4WWk4vjBEw&list=PLIZ3mKAU9ragn1woIEWls9zaV1p69rq1D&index=8)
+- **Results** : [Notion(summary)](https://www.notion.so/Fingly-bc0389cdebea4c0a9a16da4899019987), [PPT](https://www.notion.so/bab45ec5ede54bb98d88a3579f401e1e#b6e531abf2194ae4acc871099a4a583d), [Presentation](https://www.youtube.com/watch?v=V4WWk4vjBEw&list=PLIZ3mKAU9ragn1woIEWls9zaV1p69rq1D&index=8), [Code Implementation](https://github.com/jeonggg119/Ybigta/tree/master/2022-2_conference_Fingly)
 
 
 ### 📚 Winter Vacation DS Team Study - Reinforcement Learning

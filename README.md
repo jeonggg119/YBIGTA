@@ -1,4 +1,4 @@
-# Ybigta
+# YbigTa
 ## 2022-1
 ### 🌱 Winter Vacation Study Session
 - **Duration** : 22-01-06 ~ 22-02-10
